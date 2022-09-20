@@ -1,7 +1,7 @@
 # NLWDesafioExtra
  Desafio disponibilizado pela Rocketseat no eventoda NLW eSports.
 
-![preview](./.github/preview.png)
+![preview](./github/preview.png)
 
 ## Tecnologias
  - HTML
